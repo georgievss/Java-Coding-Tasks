@@ -1,0 +1,15 @@
+Hello you
+
+Write a program that reads a person's name as input from the console and prints a message greeting the person.
+
+Input
+On the single line you will receive the name of the person
+
+Output
+You should print a message on a single line Hello, <name>!, where <name> is the name of the person
+
+Input
+John
+
+Output
+Hello, John!
