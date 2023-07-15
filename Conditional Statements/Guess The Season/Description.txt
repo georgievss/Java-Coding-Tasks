@@ -1,0 +1,31 @@
+Guess the Season
+Write a program that displays the name of the season associated with a given date and month. Use the table below to determine the season's start and end dates.
+
+Season	Start Date
+Spring	March 20
+Summer	June 21
+Autumn	September 22
+Winter	December 21
+
+For example, Autumn lasts from September 22 to December 20, both inclusive.
+
+Input
+On the first line, you will receive the month as a string
+On the second line, you will receive the date as a number
+
+Output
+On the only line of output, print the name of the season in pascal case
+
+Input
+April
+6
+
+Output
+Spring
+
+Input
+June
+24
+
+Output
+Summer

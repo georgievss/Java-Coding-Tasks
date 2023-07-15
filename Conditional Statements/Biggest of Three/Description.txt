@@ -1,0 +1,30 @@
+Biggest of Three
+
+Write a program that finds the biggest of three numbers.
+
+Input
+Read from the standard input.
+On the first three lines you will receive the three numbers, each on a separate line.
+
+Output
+Print to the standard output.
+On the only output line, write the biggest of the three numbers.
+
+Constraints
+The three numbers will always be valid integer numbers in the range [-200, 200]. You do not have to explicitly check if they are valid.
+
+Input
+4
+4
+4
+
+Output
+4
+
+Input
+-1
+-10
+0
+
+Output
+0
